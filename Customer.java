@@ -43,6 +43,7 @@ public class Customer {
              " frequent renter points";
      return result;
    }
+  
   private double amountFor(Rental each)  {
     double thisAmount = 0;
       //determine amounts for each line
